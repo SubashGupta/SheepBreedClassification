@@ -10,8 +10,6 @@ Developed a sheep breed classification deep learning model using fine-tuned VGG-
 ### :file_folder: Dataset
 The dataset used can be downloaded here - [KAGGLE](https://www.kaggle.com/datasets/divyansh22/sheep-breed-classification)
 
-This dataset contains about 1006 equally distributed images of 2 distinct types.
-
 This dataset consists of __3299 images__ belonging to two classes:
 *	__Sheep Face:1680 images__
 *	__Full Sheep: 1619 images__
